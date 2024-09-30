@@ -22,7 +22,6 @@ class heroi {
         } else if (this.xp >= 10001) {
             nivel = "Radiante"
         }
-        console.log(this.xp)
         console.log(`Meu nome é ${this.nome} e eu sou um heroi com nível ${nivel}`)
     }
 }
