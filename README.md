@@ -60,4 +60,5 @@ Saída Esperada
 Ao executar o exemplo acima, a saída será:
 
 ```bash
-Meu nome é Joãozinho Voador e eu sou um herói com nível Ouro´´´
+Meu nome é Joãozinho Voador e eu sou um herói com nível Ouro
+```
